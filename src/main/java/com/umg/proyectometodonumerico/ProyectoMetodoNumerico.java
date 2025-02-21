@@ -11,6 +11,12 @@ package com.umg.proyectometodonumerico;
 public class ProyectoMetodoNumerico {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        
+        
+        //Llamar al main
+         Main main = new Main();
+         main.Iniciar();
+
+        
     }
 }
